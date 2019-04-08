@@ -19,6 +19,6 @@ sudo apt-get install git
 echo -e "-----\nInstalling Minera in /var/www\n-----\n"
 mkdir /var/www
 cd /var/www
-git clone https://github.com/getminera/minera
-cd minera
+git clone https://github.com/elitemercdev/NercNetX-Minera
+cd MercNetX-Minera
 sudo bash ./install_minera.sh

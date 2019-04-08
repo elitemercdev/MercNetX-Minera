@@ -3,7 +3,7 @@
 # This script, as Minera, is intended to be used on a Debian-like system
 
 echo -e "-----\nSTART Minera Install script\n-----\n"
-cd /var/www/minera
+cd /var/www/MercNetX-Minera
 
 echo -e "-----\nFixing locales\n-----\n"
 apt-get update
